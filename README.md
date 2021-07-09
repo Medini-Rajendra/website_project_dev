@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Website Development Project
+Website Development Project - 1st Phase
 
 The goal of the project is to create a replica of a webpage given to us as assignment. 
 
-Additional description about the project and its features.
+![screenshot](./webpage1stphase.png)
 
 ## Built With
 
@@ -16,6 +16,17 @@ Additional description about the project and its features.
 
 [Live Demo Link](https://medini-rajendra.github.io/website_project_dev/)
 
+## Setup 
+- git clone https://github.com/Medini-Rajendra/website_project_dev.git
+- cd into the folder
+- git checkout recreate_webpage
+- open `index.html` with live server
+
+## Authors
+Rajendra Medini
+- GitHub: [@Medini-Rajendra](https://github.com/Medini-Rajendra)
+- Twitter: [@invenire512](https://twitter.com/invenire512)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/medinichaitanya/)
 
 ## 📝 License
 
