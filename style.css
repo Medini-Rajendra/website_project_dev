@@ -224,7 +224,7 @@ nav {
   left: 20px;
   width: 178px;
   height: 44px;
-  top: 143px;
+  top: 140px;
   color: #fdfdfd;
   border: 1px solid #fff;
 }
@@ -280,6 +280,7 @@ nav {
   left: 20px;
   width: 264px;
   height: 16px;
+  top: 10px;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-size: 20px;
@@ -290,7 +291,7 @@ nav {
   left: 20px;
   width: 124px;
   height: 24px;
-  top: -10px;
+  top: 10px;
   text-align: center;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -316,7 +317,9 @@ nav {
 
 .box1 {
   position: relative;
-  bottom: -397px;
+  width: 69px;
+  height: 20px;
+  bottom: -383px;
   right: -10px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
@@ -324,16 +327,20 @@ nav {
 
 .box2 {
   position: relative;
-  bottom: -397px;
-  right: 20px;
+  width: 87px;
+  height: 20px;
+  bottom: -383px;
+  right: 32px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
 }
 
 .box3 {
   position: relative;
-  bottom: -397px;
-  right: 50px;
+  width: 74px;
+  height: 20px;
+  bottom: -383px;
+  right: 55px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
 }
@@ -345,7 +352,7 @@ nav {
   margin-left: 150px;
   margin-right: auto;
   z-index: 1;
-  top: -51px;
+  top: -10px;
   background-color: #070707;
 }
 
@@ -375,7 +382,9 @@ nav {
 
 .box4 {
   position: relative;
-  bottom: -310px;
+  width: 69px;
+  height: 20px;
+  bottom: -297px;
   right: -10px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
@@ -383,23 +392,29 @@ nav {
 
 .box5 {
   position: relative;
-  bottom: -310px;
-  right: 20px;
+  width: 87px;
+  height: 20px;
+  bottom: -297px;
+  right: 32px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
 }
 
 .box6 {
   position: relative;
-  bottom: -310px;
-  right: 50px;
+  width: 74px;
+  height: 20px;
+  bottom: -297px;
+  right: 55px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
 }
 
 .box7 {
   position: relative;
-  bottom: -225px;
+  width: 69px;
+  height: 20px;
+  bottom: -210px;
   right: -10px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
@@ -407,23 +422,29 @@ nav {
 
 .box8 {
   position: relative;
-  bottom: -225px;
-  right: 20px;
+  width: 87px;
+  height: 20px;
+  bottom: -210px;
+  right: 32px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
 }
 
 .box9 {
   position: relative;
-  bottom: -225px;
-  right: 50px;
+  width: 74px;
+  height: 20px;
+  bottom: -210px;
+  right: 55px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
 }
 
 .box10 {
   position: relative;
-  bottom: -138px;
+  width: 69px;
+  height: 20px;
+  bottom: -123px;
   right: -10px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
@@ -431,23 +452,29 @@ nav {
 
 .box11 {
   position: relative;
-  bottom: -138px;
-  right: 20px;
+  width: 87px;
+  height: 20px;
+  bottom: -123px;
+  right: 32px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
 }
 
 .box12 {
   position: relative;
-  bottom: -138px;
-  right: 50px;
+  width: 74px;
+  height: 20px;
+  bottom: -123px;
+  right: 55px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
 }
 
 .box13 {
   position: relative;
-  bottom: -48px;
+  width: 69px;
+  height: 20px;
+  bottom: -35px;
   right: -10px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
@@ -455,23 +482,29 @@ nav {
 
 .box14 {
   position: relative;
-  bottom: -48px;
-  right: 20px;
+  width: 87px;
+  height: 20px;
+  bottom: -35px;
+  right: 32px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
 }
 
 .box15 {
   position: relative;
-  bottom: -48px;
-  right: 50px;
+  width: 74px;
+  height: 20px;
+  bottom: -35px;
+  right: 55px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
 }
 
 .box16 {
   position: relative;
-  bottom: 32px;
+  width: 69px;
+  height: 20px;
+  bottom: 45px;
   right: -10px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
@@ -479,16 +512,20 @@ nav {
 
 .box17 {
   position: relative;
-  bottom: 32px;
-  right: 20px;
+  width: 87px;
+  height: 20px;
+  bottom: 45px;
+  right: 32px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
 }
 
 .box18 {
   position: relative;
-  bottom: 32px;
-  right: 50px;
+  width: 74px;
+  height: 20px;
+  bottom: 45px;
+  right: 55px;
   font-family: 'Poppins', sans-serif;
   font-size: 10.3334px;
 }
@@ -531,7 +568,7 @@ nav {
   width: 86px;
   height: 24px;
   left: 125px;
-  top: -25px;
+  top: 12px;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
   font-weight: 500;
