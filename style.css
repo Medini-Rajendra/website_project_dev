@@ -78,9 +78,11 @@ nav {
 
 .projectpageimage1 {
   background: url("Rectangle_21.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   width: 100%;
-  height: 186px;
+  height: 206px;
   top: 500px;
   position: relative;
   border: 0.333333px solid rgba(235, 86, 86, 0.1);
@@ -88,9 +90,11 @@ nav {
 
 .projectpageimage2 {
   background: url("second_project.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   width: 100%;
-  height: 186px;
+  height: 206px;
   top: 414px;
   position: relative;
   border: 0.333333px solid rgba(235, 86, 86, 0.1);
@@ -98,9 +102,11 @@ nav {
 
 .projectpageimage3 {
   background: url("thirdproject.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   width: 100%;
-  height: 186px;
+  height: 206px;
   top: 328px;
   position: relative;
   border: 0.333333px solid rgba(235, 86, 86, 0.1);
@@ -108,9 +114,11 @@ nav {
 
 .projectpageimage4 {
   background: url("fourthproject.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   width: 100%;
-  height: 186px;
+  height: 209px;
   top: 241px;
   position: relative;
   border: 0.333333px solid rgba(235, 86, 86, 0.1);
@@ -118,20 +126,23 @@ nav {
 
 .projectpageimage5 {
   background: url("fifthproject.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   width: 100%;
-  height: 186px;
+  height: 206px;
   top: 153px;
   position: relative;
-  border: 0.333333px solid rgba(235, 86, 86, 0.1);
+  border: 0.333333px solid rgba(255, 255, 255, 0.1);
 }
 
 .projectpageimage6 {
   background: url("sixthproject.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   width: 100%;
-  height: 186px;
-  left: 30px;
+  height: 206px;
   top: 73px;
   position: relative;
   border: 0.333333px solid rgba(235, 86, 86, 0.1);
@@ -535,13 +546,17 @@ nav {
   width: 134px;
   height: 50px;
   left: 16px;
-  top: 2915px;
+  top: 3025px;
   font-size: 50px;
+  font-family: 'Playfair Display', sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 100%;
 }
 
 .aboutpara {
   position: relative;
-  align-content: center;
+  word-wrap: break-word;
   width: 288px;
   height: 126px;
   left: 12px;
@@ -558,7 +573,7 @@ nav {
   width: 340px;
   height: 50px;
   left: 9px;
-  top: 100px;
+  top: 130px;
   justify-content: space-around;
   background: #1a2236;
 }
@@ -567,7 +582,7 @@ nav {
   position: absolute;
   width: 86px;
   height: 24px;
-  left: 125px;
+  left: 112px;
   top: 12px;
   font-family: 'Poppins', sans-serif;
   font-style: normal;
@@ -582,6 +597,6 @@ nav {
   position: absolute;
   width: 24px;
   height: 24px;
-  left: 230px;
+  left: 210px;
   top: 13px;
 }
