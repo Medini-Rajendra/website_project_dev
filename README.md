@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Website Development Project - 1st Phase
+Website Development Project - 1st Phases
 
 The goal of the project is to create a replica of a webpage given to us as assignment. 
 
